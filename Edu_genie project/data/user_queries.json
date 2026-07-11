@@ -1,0 +1,79 @@
+[
+  {
+    "QueryID": "467c2ef5-abf1-4d38-93b4-7f9d2f3aafaa",
+    "UserID": "1d229dff-21b0-4229-b47c-d829a470feb4",
+    "QueryType": "explain",
+    "QueryText": "physics",
+    "CreatedAt": "2026-06-28T07:25:17.448288"
+  },
+  {
+    "QueryID": "aab9dcfa-5c30-490d-8656-2343ce07af9d",
+    "UserID": "1d229dff-21b0-4229-b47c-d829a470feb4",
+    "QueryType": "qa",
+    "QueryText": "photo",
+    "CreatedAt": "2026-06-30T19:02:49.835522"
+  },
+  {
+    "QueryID": "8d6118e5-5b1a-418e-ba1d-2db24259b1ce",
+    "UserID": "1d229dff-21b0-4229-b47c-d829a470feb4",
+    "QueryType": "learn",
+    "QueryText": "machine learning",
+    "CreatedAt": "2026-06-30T19:03:34.942498"
+  },
+  {
+    "QueryID": "a470ae61-18dd-4f25-af00-0aed83798e38",
+    "UserID": "1d229dff-21b0-4229-b47c-d829a470feb4",
+    "QueryType": "qa",
+    "QueryText": "photo",
+    "CreatedAt": "2026-06-30T19:30:35.760599"
+  },
+  {
+    "QueryID": "29f2b894-15ee-4ce4-a47f-06c264a1c817",
+    "UserID": "1d229dff-21b0-4229-b47c-d829a470feb4",
+    "QueryType": "qa",
+    "QueryText": "photosynthesis",
+    "CreatedAt": "2026-06-30T19:40:55.813209"
+  },
+  {
+    "QueryID": "f01fdc4f-45a9-4520-a5a2-91bc9178c99c",
+    "UserID": "1d229dff-21b0-4229-b47c-d829a470feb4",
+    "QueryType": "learn",
+    "QueryText": "artificial intelligence",
+    "CreatedAt": "2026-06-30T19:41:39.751366"
+  },
+  {
+    "QueryID": "97d1663c-5ca1-4a75-82c2-051b25c82462",
+    "UserID": "1d229dff-21b0-4229-b47c-d829a470feb4",
+    "QueryType": "learn",
+    "QueryText": "machine learning",
+    "CreatedAt": "2026-06-30T19:45:56.792868"
+  },
+  {
+    "QueryID": "97424e0d-9cf3-4e4c-be0d-96830adaa1b1",
+    "UserID": "1d229dff-21b0-4229-b47c-d829a470feb4",
+    "QueryType": "quiz",
+    "QueryText": "Despite their delicate appearance, monarch butterflies are among nature's most extraordinary navigators. Every autumn, millions of these vibrant insects embark on a massive migration, traveling up to 3,000 miles from Canada and the United States to specific oyamel fir forests in central Mexico. Because monarchs cannot survive the freezing northern winters, they rely on a combination of the sun's position and an internal magnetic compass to guide them to warmer climates. Interestingly, the monarchs that make the return trip in the spring are different from the ones that arrived, meaning this multi-generational relay race remains one of the greatest unsolved mysteries of the animal kingdom.",
+    "CreatedAt": "2026-07-01T05:24:32.147665"
+  },
+  {
+    "QueryID": "b22d8c4c-1a23-4ac6-b38e-9d567f9abeae",
+    "UserID": "1d229dff-21b0-4229-b47c-d829a470feb4",
+    "QueryType": "quiz",
+    "QueryText": "Despite their delicate appearance, monarch butterflies are among nature's most extraordinary navigators. Every autumn, millions of these vibrant insects embark on a massive migration, traveling up to 3,000 miles from Canada and the United States to specific oyamel fir forests in central Mexico. Because monarchs cannot survive the freezing northern winters, they rely on a combination of the sun's position and an internal magnetic compass to guide them to warmer climates. Interestingly, the monarchs that make the return trip in the spring are different from the ones that arrived, meaning this multi-generational relay race remains one of the greatest unsolved mysteries of the animal kingdom.",
+    "CreatedAt": "2026-07-01T05:33:28.440123"
+  },
+  {
+    "QueryID": "87899247-c370-4fd0-bb0f-c879cda9d8ee",
+    "UserID": "1d229dff-21b0-4229-b47c-d829a470feb4",
+    "QueryType": "quiz",
+    "QueryText": "Despite their delicate appearance, monarch butterflies are among nature's most extraordinary navigators. Every autumn, millions of these vibrant insects embark on a massive migration, traveling up to 3,000 miles from Canada and the United States to specific oyamel fir forests in central Mexico. Because monarchs cannot survive the freezing northern winters, they rely on a combination of the sun's position and an internal magnetic compass to guide them to warmer climates. Interestingly, the monarchs that make the return trip in the spring are different from the ones that arrived, meaning this multi-generational relay race remains one of the greatest unsolved mysteries of the animal kingdom.",
+    "CreatedAt": "2026-07-01T05:36:19.649154"
+  },
+  {
+    "QueryID": "10b6ebe0-9feb-4cf9-b199-701bf1b46b8c",
+    "UserID": "1d229dff-21b0-4229-b47c-d829a470feb4",
+    "QueryType": "quiz",
+    "QueryText": "Despite their delicate appearance, monarch butterflies are among nature's most extraordinary navigators. Every autumn, millions of these vibrant insects embark on a massive migration, traveling up to 3,000 miles from Canada and the United States to specific oyamel fir forests in central Mexico. Because monarchs cannot survive the freezing northern winters, they rely on a combination of the sun's position and an internal magnetic compass to guide them to warmer climates. Interestingly, the monarchs that make the return trip in the spring are different from the ones that arrived, meaning this multi-generational relay race remains one of the greatest unsolved mysteries of the animal kingdom.",
+    "CreatedAt": "2026-07-01T05:40:38.761688"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "QuizID": "90af2665-a012-4adb-a953-f54823a573ad",
+    "QueryID": "e68095b8-4c11-407e-a4b5-dd448ab782e3",
+    "QuestionText": "What type of celestial body is the Sun?",
+    "OptionA": "A planet",
+    "OptionB": "A moon",
+    "OptionC": "A star",
+    "OptionD": "An asteroid",
+    "CorrectOption": "C",
+    "CreatedAt": "2026-06-28T06:42:56.972035"
+  },
+  {
+    "QuizID": "65c5e165-7a3d-470e-a525-92c0b0a1c899",
+    "QueryID": "e68095b8-4c11-407e-a4b5-dd448ab782e3",
+    "QuestionText": "What is the primary role of the Sun for Earth?",
+    "OptionA": "To cause tides",
+    "OptionB": "To provide light and heat",
+    "OptionC": "To attract comets",
+    "OptionD": "To create auroras",
+    "CorrectOption": "B",
+    "CreatedAt": "2026-06-28T06:42:56.972035"
+  },
+  {
+    "QuizID": "115721ff-e0ec-463e-ba16-d32c8b863248",
+    "QueryID": "e68095b8-4c11-407e-a4b5-dd448ab782e3",
+    "QuestionText": "Which of these is located at the center of our solar system?",
+    "OptionA": "Earth",
+    "OptionB": "The Moon",
+    "OptionC": "The Sun",
+    "OptionD": "Mars",
+    "CorrectOption": "C",
+    "CreatedAt": "2026-06-28T06:42:56.972035"
+  },
+  {
+    "QuizID": "fbd2519c-8a31-4305-962c-fdcea707fa7c",
+    "QueryID": "97424e0d-9cf3-4e4c-be0d-96830adaa1b1",
+    "QuestionText": "What is the primary reason monarch butterflies migrate south for the winter?",
+    "OptionA": "To find a specific type of flower that only blooms in Mexico.",
+    "OptionB": "To escape the freezing northern winters.",
+    "OptionC": "To participate in a multi-generational relay race.",
+    "OptionD": "To lay their eggs in a warmer environment.",
+    "CorrectOption": "B",
+    "CreatedAt": "2026-07-01T05:24:38.554160"
+  },
+  {
+    "QuizID": "c130ef6b-c9ec-4c5c-b443-b9f855b0dd0f",
+    "QueryID": "97424e0d-9cf3-4e4c-be0d-96830adaa1b1",
+    "QuestionText": "Which two navigation tools do monarch butterflies primarily use during their migration?",
+    "OptionA": "The earth's gravitational pull and wind currents.",
+    "OptionB": "The position of stars and changes in air pressure.",
+    "OptionC": "The sun's position and an internal magnetic compass.",
+    "OptionD": "Scent trails and the memory of previous generations.",
+    "CorrectOption": "C",
+    "CreatedAt": "2026-07-01T05:24:38.554183"
+  },
+  {
+    "QuizID": "db6a594a-13f7-4052-9e8d-312ad2b0ccb1",
+    "QueryID": "97424e0d-9cf3-4e4c-be0d-96830adaa1b1",
+    "QuestionText": "What makes the monarch butterfly's return migration in the spring particularly mysterious?",
+    "OptionA": "They fly a completely different route than the autumn migration.",
+    "OptionB": "The monarchs that return are a different generation from those that arrived.",
+    "OptionC": "They navigate without using the sun or a magnetic compass on the return trip.",
+    "OptionD": "They travel to a new, unknown destination each year.",
+    "CorrectOption": "B",
+    "CreatedAt": "2026-07-01T05:24:38.554196"
+  },
+  {
+    "QuizID": "364155a1-fda4-4dd8-ae37-a02c6a6319ad",
+    "QueryID": "b22d8c4c-1a23-4ac6-b38e-9d567f9abeae",
+    "QuestionText": "Where do monarch butterflies primarily migrate to for the winter?",
+    "OptionA": "A. Oyamel fir forests in central Mexico",
+    "OptionB": "B. The southern United States",
+    "OptionC": "C. Canada",
+    "OptionD": "D. Tropical rainforests in South America",
+    "CorrectOption": "A",
+    "CreatedAt": "2026-07-01T05:33:34.258806"
+  },
+  {
+    "QuizID": "fa93c65e-e2bc-46ae-8697-e4f9a09831a1",
+    "QueryID": "b22d8c4c-1a23-4ac6-b38e-9d567f9abeae",
+    "QuestionText": "What is the primary reason monarch butterflies embark on their massive migration?",
+    "OptionA": "A. To find new sources of nectar",
+    "OptionB": "B. To avoid predators in their northern habitats",
+    "OptionC": "C. To escape freezing northern winters",
+    "OptionD": "D. To spread their species to new territories",
+    "CorrectOption": "C",
+    "CreatedAt": "2026-07-01T05:33:34.258827"
+  },
+  {
+    "QuizID": "1a5d5b45-8603-4af7-a31f-acc1149d8594",
+    "QueryID": "b22d8c4c-1a23-4ac6-b38e-9d567f9abeae",
+    "QuestionText": "Which of the following methods do monarch butterflies use to navigate during their long migration?",
+    "OptionA": "A. Following the scent of specific plants and flowers",
+    "OptionB": "B. Relying on the sun's position and an internal magnetic compass",
+    "OptionC": "C. Memorizing geographical landmarks from previous trips",
+    "OptionD": "D. Detecting changes in air pressure and wind currents",
+    "CorrectOption": "B",
+    "CreatedAt": "2026-07-01T05:33:34.258835"
+  },
+  {
+    "QuizID": "bb75fb85-cee3-4867-a698-feacb158aac9",
+    "QueryID": "87899247-c370-4fd0-bb0f-c879cda9d8ee",
+    "QuestionText": "To what specific location do monarch butterflies migrate for the winter?",
+    "OptionA": "A. Specific oyamel fir forests in central Mexico",
+    "OptionB": "B. The southern United States",
+    "OptionC": "C. Coastal regions of California",
+    "OptionD": "D. Tropical rainforests in South America",
+    "CorrectOption": "A",
+    "CreatedAt": "2026-07-01T05:36:28.244084"
+  },
+  {
+    "QuizID": "73178a1d-0ccd-4214-b427-3a9944888c07",
+    "QueryID": "87899247-c370-4fd0-bb0f-c879cda9d8ee",
+    "QuestionText": "What is the primary reason monarch butterflies migrate south for the winter?",
+    "OptionA": "A. To find abundant food sources",
+    "OptionB": "B. To escape freezing northern winters",
+    "OptionC": "C. To locate new breeding grounds",
+    "OptionD": "D. To avoid seasonal predators",
+    "CorrectOption": "B",
+    "CreatedAt": "2026-07-01T05:36:28.244124"
+  },
+  {
+    "QuizID": "2cd579ae-4575-4a50-8fd9-01ac7dea27ac",
+    "QueryID": "87899247-c370-4fd0-bb0f-c879cda9d8ee",
+    "QuestionText": "According to the passage, what two primary methods do monarch butterflies use to guide their migration?",
+    "OptionA": "A. Following scent trails and star constellations",
+    "OptionB": "B. Using the Earth's gravitational pull and wind currents",
+    "OptionC": "C. Relying on the sun's position and an internal magnetic compass",
+    "OptionD": "D. Observing geographical landmarks and temperature changes",
+    "CorrectOption": "C",
+    "CreatedAt": "2026-07-01T05:36:28.244143"
+  },
+  {
+    "QuizID": "9da791ad-3aad-4357-a182-4dcf70fee65c",
+    "QueryID": "10b6ebe0-9feb-4cf9-b199-701bf1b46b8c",
+    "QuestionText": "Why do monarch butterflies embark on their massive autumn migration?",
+    "OptionA": "A) To establish new breeding territories in the south.",
+    "OptionB": "B) Because they cannot survive the freezing northern winters.",
+    "OptionC": "C) To avoid predators that are more common in northern climates.",
+    "OptionD": "D) To explore new sources of nectar and pollen.",
+    "CorrectOption": "B",
+    "CreatedAt": "2026-07-01T05:40:46.714425"
+  },
+  {
+    "QuizID": "1949ca23-dc70-469d-964e-fa62a4775b54",
+    "QueryID": "10b6ebe0-9feb-4cf9-b199-701bf1b46b8c",
+    "QuestionText": "Where do monarch butterflies from Canada and the United States typically migrate for the winter?",
+    "OptionA": "A) The Amazon rainforest.",
+    "OptionB": "B) Coastal regions of Florida.",
+    "OptionC": "C) Specific oyamel fir forests in central Mexico.",
+    "OptionD": "D) The southern deserts of the United States.",
+    "CorrectOption": "C",
+    "CreatedAt": "2026-07-01T05:40:46.714447"
+  },
+  {
+    "QuizID": "cab349ad-8256-4625-9df3-4acf3df48466",
+    "QueryID": "10b6ebe0-9feb-4cf9-b199-701bf1b46b8c",
+    "QuestionText": "What aspect of the monarch butterfly migration is described as one of nature's greatest 'unsolved mysteries'?",
+    "OptionA": "A) How they navigate using the sun's position and an internal magnetic compass.",
+    "OptionB": "B) The exact distance they travel during their autumn migration.",
+    "OptionC": "C) How different generations complete the multi-generational relay race return trip.",
+    "OptionD": "D) Their delicate appearance despite traveling thousands of miles.",
+    "CorrectOption": "C",
+    "CreatedAt": "2026-07-01T05:40:46.714455"
+  }
+]

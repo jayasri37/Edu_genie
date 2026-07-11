@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>EduGenie — AI Learning Assistant</title>
+<link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+
+<section class="hero">
+  <video class="hero-video" autoplay muted loop playsinline preload="auto" aria-hidden="true">
+    <source src="/static/video.mp4?v=1" type="video/mp4" />
+  </video>
+
+
+  <div class="hero-copy">
+    <p class="eyebrow">Three wishes, zero limits</p>
+    <h1>Ask anything.<br/>Learn it <em>your way</em>.</h1>
+    <p class="lede">EduGenie is an AI tutor powered by Gemini 2.5 Flash. Pick a wish below to get started.</p>
+
+    <div class="wish-box" id="wish-box">
+      <p class="wish-box-label">🧞 Make a wish</p>
+
+      <div class="wish-option" id="wish-qa">
+        <button class="wish-trigger" onclick="toggleWish('wish-qa')">
+          <span class="w-icon">💬</span>
+          <span class="w-label">Ask a question</span>
+          <svg class="w-chev" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+        <div class="wish-body">
+          <input type="text" id="wish-qa-input" placeholder="e.g. What is photosynthesis?" />
+          <button class="wish-submit" onclick="wishSubmit('qa')">Get answer</button>
+          <div class="wish-result" id="wish-qa-result"></div>
+        </div>
+      </div>
+
+      <div class="wish-option" id="wish-explain">
+        <button class="wish-trigger" onclick="toggleWish('wish-explain')">
+          <span class="w-icon">🔍</span>
+          <span class="w-label">Need an explanation</span>
+          <svg class="w-chev" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+        <div class="wish-body">
+          <input type="text" id="wish-explain-input" placeholder="e.g. Newton's Laws of Motion" />
+          <button class="wish-submit" onclick="wishSubmit('explain')">Explain it</button>
+          <div class="wish-result" id="wish-explain-result"></div>
+        </div>
+      </div>
+
+      <div class="wish-option" id="wish-summarize">
+        <button class="wish-trigger" onclick="toggleWish('wish-summarize')">
+          <span class="w-icon">📄</span>
+          <span class="w-label">Summarize a paragraph</span>
+          <svg class="w-chev" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+        <div class="wish-body">
+          <textarea id="wish-summarize-input" rows="3" placeholder="Paste your text here..."></textarea>
+          <button class="wish-submit" onclick="wishSubmit('summarize')">Summarize</button>
+          <div class="wish-result" id="wish-summarize-result"></div>
+        </div>
+      </div>
+
+      <div class="wish-option" id="wish-quiz">
+        <button class="wish-trigger" onclick="toggleWish('wish-quiz')">
+          <span class="w-icon">🧪</span>
+          <span class="w-label">Generate a quiz</span>
+          <svg class="w-chev" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+        <div class="wish-body">
+          <textarea id="wish-quiz-input" rows="3" placeholder="Paste a passage to quiz on..."></textarea>
+          <button class="wish-submit" onclick="wishSubmit('quiz')">Generate quiz</button>
+          <div class="wish-result" id="wish-quiz-result"></div>
+        </div>
+      </div>
+
+      <div class="wish-option" id="wish-learn">
+        <button class="wish-trigger" onclick="toggleWish('wish-learn')">
+          <span class="w-icon">🗺️</span>
+          <span class="w-label">Get a learning path</span>
+          <svg class="w-chev" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+        <div class="wish-body">
+          <input type="text" id="wish-learn-input" placeholder="e.g. Machine Learning" />
+          <button class="wish-submit" onclick="wishSubmit('learn')">Get recommendations</button>
+          <div class="wish-result" id="wish-learn-result"></div>
+        </div>
+      </div>
+    </div>
+
+    <a href="/health" target="_blank" class="btn btn-ghost open-console-link">Health check</a>
+  </div>
+</section>
+
+<footer>
+  <p>EduGenie v1.3 &nbsp;|&nbsp; Powered by Google Gemini 2.5 Flash &nbsp;|&nbsp;
+    <a href="/docs" target="_blank">API Docs</a>
+  </p>
+</footer>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
